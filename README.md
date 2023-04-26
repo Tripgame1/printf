@@ -1,3 +1,2 @@
 # printf
-alx project with doukielhassan@gmail.com 
-
+alx project with @elhassandouki & @Tripgame1
